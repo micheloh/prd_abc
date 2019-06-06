@@ -1,4 +1,3 @@
-teste de merge em branch
 
 Public Function getConnection() As ADODB.Connection
     Dim obConnection2 As ADODB.Connection
